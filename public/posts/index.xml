@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:60256/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2024 19:13:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:60256/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:60256/posts/my-first-post/</link>
+      <pubDate>Tue, 09 Jul 2024 19:13:32 +0800</pubDate>
+      <guid>http://localhost:60256/posts/my-first-post/</guid>
+      <description> 三個人的故事：&#xA;*江陽 *趙欣&#xA;范可可，黑絲女， </description>
+    </item>
+  </channel>
+</rss>
