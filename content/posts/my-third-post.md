@@ -4,6 +4,19 @@ date = 2024-07-14T15:37:05+08:00
 draft = false
 +++
 
+SFW
+===
+- [結衣姐姐](https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%A4%9A%E9%87%8E%E7%B5%90%E8%A1%A3)
+
+- [響姐姐](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E3%81%B2%E3%81%B3%E3%81%8D)
+
+- [波多野结衣x大槻响 朋友关系满十周年，表达感激之情 [Photo by me ＆ me]#5(二人的專訪，有穿衣服的)](https://www.bilibili.com/read/cv23702387/)
+
+
+- [[問題] 有沒有兩女優有私交又一起拍過片的？](9https://disp.cc/ptt/japanavgirls/1b47mWjE)
+
+NSFW
+===
 結衣姐姐 響姐姐 女子雙打
 
 - [ハーレムASMRスペシャル！！](https://missav.com/dm18/zex-358)
